@@ -28,7 +28,7 @@ An AI-powered web application that allows users to upload PDF documents and ask 
 
 ```
 pdf-chatbot/
-├── app.py              # FastAPI backend
+├── app.py            
 ├── qa_system.py        # AI logic (embeddings + FAISS)
 ├── requirements.txt
 ├── README.md
